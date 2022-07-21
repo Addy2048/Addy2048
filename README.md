@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Addy2048
 - 👀 I’m interested in web application development
-- 🌱 I’m currently learning Laravel framework
+- 🌱 I’m currently learning JavaScript and it's frameworks
 - 💞️ I’m looking to collaborate on web backend development
 - 📫 How to reach me is via email aazaliwa@gmail.com
 
