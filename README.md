@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Addy2048
 - 👀 I’m interested in web application development
-- 🌱 I’m currently learning JavaScript and it's frameworks
-- 💞️ I’m looking to collaborate on web backend development
+- 🌱 I’m currently a frontend developers using JS libraries and frameworks
+- 💞️ I’m looking to collaborate on front-end development.
 - 📫 How to reach me is via email aazaliwa@gmail.com
 
 <!---
