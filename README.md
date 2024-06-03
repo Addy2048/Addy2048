@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Adiel Elifelte @Addy2048
+- 👋 Hi, I’m Adiel Elifelet @Addy2048
 - 👀 I am a fullstack web and mobile developer using JS libraries and frameworks such as React, React Native, NextJs and NodeJs
 - 📫 How to reach me is via email aazaliwa@gmail.com
 
