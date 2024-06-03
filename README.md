@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Addy2048
-- 👀 I’m interested in web application development
-- 🌱 I’m currently a frontend developers using JS libraries and frameworks
-- 💞️ I’m looking to collaborate on front-end development.
+- 👋 Hi, I’m Adiel Elifelte @Addy2048
+- 👀 I am a fullstack web and mobile developer using JS libraries and frameworks such as React, React Native, NextJs and NodeJs
 - 📫 How to reach me is via email aazaliwa@gmail.com
 
 <!---
